@@ -1,6 +1,6 @@
 # DOM
 
-#### [![Build status](https://ci.appveyor.com/api/projects/status/c2di9xckgtm6b5kv?svg=true)](https://ci.appveyor.com/project/zoomzoom2/ahj-dom-moving-item)
+#### [![Build status](https://ci.appveyor.com/api/projects/status/gkd968xyvwabdb3b?svg=true)](https://ci.appveyor.com/project/zoomzoom2/ahj-dom-moving-item)
 
 ### Перемещение элемента
 
